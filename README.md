@@ -1,4 +1,4 @@
-# Selling Your IPv4 Address with [IPv4.Center](https://ipv4.center)
+# Selling Your IPv4 Address with [IPv4.Center](https://ipv4.center/sell-ipv4)
 
 At **IPv4.Center**, we make selling IPv4 addresses simple and secure. We connect sellers with interested buyers, managing the entire process and ensuring that your sale is smooth and hassle-free. Our platform ensures transparency and efficiency while protecting your interests.
 
@@ -55,4 +55,4 @@ Once you agree to the buyer’s offer:
 
 ## Start Selling Today
 
-If you’re ready to sell your IPv4 address, contact us at [IPv4.Center](https://ipv4.center) to begin the process. Our team will guide you every step of the way and ensure that you get the best possible deal for your IPv4 addresses.
+If you’re ready to sell your IPv4 address, contact us at [IPv4.Center](https://ipv4.center/sell-ipv4) to begin the process. Our team will guide you every step of the way and ensure that you get the best possible deal for your IPv4 addresses.
